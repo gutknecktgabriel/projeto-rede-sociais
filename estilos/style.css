@@ -39,11 +39,11 @@ section#telefone{
     padding: 100px;
 }
 iframe#tela {
-    position: relative;
-    top: -20px;
-    left: -78px;
-    width: 269px;
-    height: 472px;
+    position: absolute;
+    top: 80px;
+    left: 20px;
+    width: 270px;
+    height: 473px;
     
 }
 section#redes-sociais img{
